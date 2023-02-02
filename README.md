@@ -3,6 +3,8 @@ Search movies and add/delete movies in favorite list.
 
 A simple web application for movie select(search), check detail information, and add in favorite page. 
 
+URL: https://ollieeryo.github.io/Movie-List/
+
 ## Features
 - listing movies from movie api
 - searching movies by title
